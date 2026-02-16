@@ -24,7 +24,7 @@ class _HomescreenState extends State<Homescreen>
       (
         child: Scaffold
         (
-           appBar:AppBar(title: Text("Add Category"),) ,
+           appBar:AppBar(title: Text("Add Category1"),) ,
            body: Center
              (
               child: Padding(
